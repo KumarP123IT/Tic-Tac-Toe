@@ -9,15 +9,6 @@ A classic Tic Tac Toe game built with HTML, CSS, and JavaScript. This app includ
 - **High Score:** The player with the highest score at the end of the rounds wins the game.
 - **Reset Button:** Resets the game and scoreboard for a fresh start.
 
-## Demo
-
-You can see a live demo of the Tic Tac Toe game [here](#). (Replace with the actual link to the live demo if available)
-
-## Screenshots
-
-![Tic Tac Toe Game Screenshot](screenshots/screenshot1.png)  
-*Game board and scoreboard.*
-
 ## Installation
 
 1. **Clone the repository:**
